@@ -5,3 +5,4 @@ binary-classifier/model/
 .out
 .env
 *.txt
+binary-classifier/.DS_Store
